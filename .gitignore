@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+chroma_db/
+chroma_sig.txt
+data/
+docs/
+models/
+voices/
+theme/bg.png
+theme/logo_source.png
+*.wav
+*.log
+*_old*.py
